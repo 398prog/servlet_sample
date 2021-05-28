@@ -1,4 +1,4 @@
-package jp.co.sss.sevlet.sample05;
+package jp.co.sss.servlet.sample05;
 
 import java.io.IOException;
 import java.io.PrintWriter;
